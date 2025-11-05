@@ -1,2 +1,2 @@
 # Cyber-attacco-Dutto-Fasulo
-In questa attività di laboratorio, si va a simulare un ipotetico cyber attacco tra due hardware.
+In questa attività di laboratorio, si va a simulare un ipotetico cyber attacco tra due hardware. Uno dei due dispositivi subirà l’attacco, venendo adescato in una email truffa (phishing), la quale contiene un link ed un file,  che se scaricato ed eseguito,  aprirá sul dispositivo della vittima un finto sito di shopping che in realtà contiene un keylogger. In questo modo,  il secondo dispositivo,  appartenente invece all’attaccante,  dopo aver inviato l’email fraudolenta, potrà ricevere via email tutti i dati privati che la vittima scriverà facendo “acquisti” sull’applicazione.  
